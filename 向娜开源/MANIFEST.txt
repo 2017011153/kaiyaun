@@ -1,0 +1,13 @@
+1. COPYING.txt
+2. CREDITS.txt
+3. HISTORY.txt
+4. LICENS.docx
+5. NEWS.txt
+6. TAGS.txt
+8. 车辆管理系统之测试文档.docx
+9. 车辆管理系统之课程总结.docx
+10.车辆管理系统之设计报告.docx
+11.车辆管理系统之源代码.doc
+12.课程报告.docx
+13.课程设计之需求分析.docx
+14.MANIFEST.txt
